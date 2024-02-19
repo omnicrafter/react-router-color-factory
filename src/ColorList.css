@@ -1,0 +1,8 @@
+.ColorList-container {
+  position: fixed;
+  top: 200px;
+  width: 200px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
